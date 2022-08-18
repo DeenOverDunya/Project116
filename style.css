@@ -1,0 +1,21 @@
+body
+{
+  color: white;
+}
+
+
+#h3
+{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;
+background-color:#63B4B8;
+
+}
+
+
+    canvas {
+        border:3px dashed white;
+    
+    }
+    
